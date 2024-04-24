@@ -1,0 +1,140 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/0766641b-a3c4-5278-a7d0-697046e8c2a2",
+            "url": "https://www.nytimes.com/2024/04/12/opinion/choking-teen-sex-brain-damage.html",
+            "id": 100000009402753,
+            "asset_id": 100000009402753,
+            "source": "New York Times",
+            "published_date": "2024-04-12",
+            "updated": "2024-04-13 14:55:49",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Sex;Asphyxiation, Choking, and Suffocation;Women and Girls;Teenagers and Adolescence;Youth;Brain;Assaults;Pornography;Colleges and Universities;Social Media;#MeToo Movement",
+            "column": null,
+            "byline": "By Peggy Orenstein",
+            "type": "Article",
+            "title": "The Troubling Trend in Teenage Sex",
+            "abstract": "Choking has moved from porn to pop culture to the dorm room. And the consequences for young women could be very serious.",
+            "des_facet": [
+                "Sex",
+                "Asphyxiation, Choking, and Suffocation",
+                "Women and Girls",
+                "Teenagers and Adolescence",
+                "Youth",
+                "Brain",
+                "Assaults",
+                "Pornography",
+                "Colleges and Universities",
+                "Social Media",
+                "#MeToo Movement"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Carolyn Drake for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/14/opinion/12orenstein/12orenstein-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/14/opinion/12orenstein/12orenstein-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/14/opinion/12orenstein/12orenstein-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9661d27b-259f-5f68-86ec-f1c5a6f77e85",
+            "url": "https://www.nytimes.com/2024/04/22/opinion/earth-day-octopus-teacher.html",
+            "id": 100000009400168,
+            "asset_id": 100000009400168,
+            "source": "New York Times",
+            "published_date": "2024-04-22",
+            "updated": "2024-04-22 23:00:55",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Documentary Films and Programs;Biodiversity;Fish and Other Marine Life;Coastal Areas;Earth;Octopus;Forests and Forestry;Conservation of Resources;Global Warming;Academy Awards (Oscars);Oceans and Seas;Foster, Craig (Filmmaker);South Africa",
+            "column": null,
+            "byline": "By Craig Foster",
+            "type": "Article",
+            "title": "An Octopus Took My Camera, and the Images Changed the Way I See the World",
+            "abstract": "“Saving the planet” is the wrong goal.",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Biodiversity",
+                "Fish and Other Marine Life",
+                "Coastal Areas",
+                "Earth",
+                "Octopus",
+                "Forests and Forestry",
+                "Conservation of Resources",
+                "Global Warming",
+                "Academy Awards (Oscars)",
+                "Oceans and Seas"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Foster, Craig (Filmmaker)"
+            ],
+            "geo_facet": [
+                "South Africa"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The octopus, via Craig Foster",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/23/opinion/22foster-02/22foster-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/23/opinion/22foster-02/22foster-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/23/opinion/22foster-02/22foster-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        
+        }
+    ]
+}
