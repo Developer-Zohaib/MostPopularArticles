@@ -7,7 +7,7 @@ A NY Times Most Popular Articles List App.
 
 ## Demo
 
-https://github.com/Developer-Zohaib/TargetTechnologiesChallange/assets/77668258/0e8b6190-0c22-4599-8e6e-55b9b828dfbc
+https://github.com/Developer-Zohaib/MostPopularArticles/assets/77668258/0e8b6190-0c22-4599-8e6e-55b9b828dfbc
 
 ## Features
 
